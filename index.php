@@ -19,7 +19,7 @@
     <meta name="description" content="Science for the People: Stories of Resilience in the Face of the COVID Pandemic (in the Countryside)">
     <meta name="author" content="DOST-IX">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:image" content="https://sftp-epub.dost9.ph/images/dotcom.jpg">
+    <meta property="og:image" content="https://sftp-epub.dost9.ph/images/slides/cover.jpg">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1024">
     <meta property="og:image:height" content="1024">
