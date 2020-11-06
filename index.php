@@ -16,9 +16,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <title>DOST-IX</title>
-    <meta name="description" content="">
-    <meta name="author" content="Marcio Aguiar">
+    <meta name="description" content="DOST-IX Book">
+    <meta name="author" content="DOST-IX">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="https://sftp-epub.dost9.ph/images/slides/cover.jpg">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1024">
+    <meta property="og:image:height" content="1024">
+
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/wow_book.css" type="text/css" />
     <link rel="stylesheet" type="text/css" href="css/preview.css">
